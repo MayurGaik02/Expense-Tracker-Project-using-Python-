@@ -1,0 +1,8 @@
+Date,Type,Category,Amount,Description
+2025-11-03 10:37:31,Income,Income,40000.0,Salary of Oct
+2025-11-03 10:40:33,Expense,Food',10000.0,Oct food expenses
+2025-11-04 09:23:22,Income,Incentive,10000.0,Oct incentive
+2025-11-04 09:24:16,Income,Bonus,5000.0,Oct bonus
+2025-11-04 09:24:41,Expense,Food,8000.0,Sep food expenses
+2025-11-04 10:03:57,Income,Salary,40000.0,Nov Salary
+2025-11-04 10:04:16,Expense,Rent,10000.0,Nov rent
